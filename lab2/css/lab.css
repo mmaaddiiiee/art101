@@ -1,7 +1,12 @@
+@font-face{
+  src: url(Nosifer-Regular.ttf);
+  font-family: nos;
+}
+
 h1 {
+  font-family: nos;
   color: #000000;
   font-size:400%;
-
 }
 
 p {
@@ -10,11 +15,10 @@ p {
   margin-left:;
   color: #000000;
   font-weight: 900;
-
 }
+
  #content {
    background-color: #8c0a0a;
-   width: 50;
+   width:;
    border: dotted 5px;
-
  }
