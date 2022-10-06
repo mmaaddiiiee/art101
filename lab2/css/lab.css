@@ -7,18 +7,37 @@ h1 {
   font-family: nos;
   color: #000000;
   font-size:400%;
+  text-decoration: underline;
+  margin-left: 20px;
 }
 
 p {
-  font-family:;
-  text-indent:;
-  margin-left:;
+  position: relative;
+  margin-left: 20px;
+  margin-right: 500px;
+  margin-top: -300px;
+  text-indent: 70;
   color: #000000;
   font-weight: 900;
+  font-size: 20px;
 }
 
  #content {
    background-color: #8c0a0a;
-   width:;
-   border: dotted 5px;
+   margin-left: 200px;
+   margin-right: 200px;
+   border: dotted 10px;
+ }
+
+ a {
+   font-family: nos;
+   color: #fa6711;
+   font-size: 30px;
+   text-decoration: none;
+ }
+
+ img {
+   position: relative;
+   margin-left: 700px;
+   padding-bottom: 200px;
  }
