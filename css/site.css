@@ -1,8 +1,149 @@
-p {
-  color: black;
-}
 
 #my-portrait {
   width: 350px;
   height: 200px;
+  text-align: center;
+  border-style: double;
+  background-color: #b8f5e2;
+  border-radius: 8px;
+}
+
+@font-face {
+  font-family: arcade;
+  src: url("arcade-font.ttf")
+}
+
+@font-face {
+  font-family: bubble;
+  src: url("bubble-font.ttf");
+}
+
+@font-face {
+  font-family: fairy;
+  src: url("enchanted-land-font.ttf")
+}
+
+p {
+  color: #208050;
+  text-align: center;
+  background-color: #b8f5e2;
+  border-style: double;
+  border-radius: 8px;
+  font-family: bubble;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+body {
+  background-color: #b3e8c1;
+    background-image: url("../img/strawberry_background.jpg");
+}
+
+h1 {
+  background-color: #e5bff5;
+  text-align: center;
+  color: #bc41f0;
+  text-shadow: 0 0 1px #fbebff;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-style: double;
+  border-radius: 8px;
+  font-family: arcade;
+  }
+
+
+h2 {
+ background-color: #e5bff5;
+ text-align: center;
+ color: #bc41f0;
+ text-shadow: 0 0 1px #fbebff;
+ margin-left: 500px;
+ margin-right: 500px;
+ border-style: double;
+ border-radius: 8px;
+ font-family: arcade;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.lab2-link{
+  display:block;
+  text-align: center;
+  background-color: #e5bff5;
+  color: #bc41f0;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-left: 600px;
+  margin-right: 600px;
+  border-style: double;
+  border-radius: 8px;
+  font-family: bubble;
+}
+
+.lab3-link{
+  display:block;
+  text-align: center;
+  background-color: #e5bff5;
+  color: #bc41f0;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-left: 600px;
+  margin-right: 600px;
+  border-style: double;
+  border-radius: 8px;
+  font-family: bubble;
+}
+.lab4-link{
+  display:block;
+  text-align: center;
+  background-color: #e5bff5;
+  color: #bc41f0;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-left: 600px;
+  margin-right: 600px;
+  border-style: double;
+  border-radius: 8px;
+  font-family: bubble;
+}
+.lab5-link{
+  display:block;
+  text-align: center;
+  background-color: #e5bff5;
+  color: #bc41f0;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-left: 600px;
+  margin-right: 600px;
+  border-style: double;
+  border-radius: 8px;
+  font-family: bubble;
+}
+.lab6-link{
+  display:block;
+  text-align: center;
+  background-color: #e5bff5;
+  color: #bc41f0;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-left: 600px;
+  margin-right: 600px;
+  border-style: double;
+  border-radius: 8px;
+  font-family: bubble;
 }
