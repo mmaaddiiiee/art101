@@ -1,0 +1,10 @@
+p {
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+body {
+  background-color: #b3e8c1;
+    background-image: url("../img/#b3e8c1-color.png");
+}

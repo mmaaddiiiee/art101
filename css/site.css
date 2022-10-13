@@ -64,6 +64,18 @@ h2 {
  font-family: arcade;
 }
 
+h3 {
+ background-color: #e5bff5;
+ text-align: center;
+ color: #bc41f0;
+ text-shadow: 0 0 1px #fbebff;
+ margin-left: 600px;
+ margin-right: 600px;
+ border-style: double;
+ border-radius: 8px;
+ font-family: arcade;
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -84,7 +96,7 @@ h2 {
   margin-right: 600px;
   border-style: double;
   border-radius: 8px;
-  font-family: bubble;
+  font-family: sans-serif;
 }
 
 .lab3-link{
@@ -100,7 +112,7 @@ h2 {
   margin-right: 600px;
   border-style: double;
   border-radius: 8px;
-  font-family: bubble;
+  font-family: sans-serif;
 }
 .lab4-link{
   display:block;
@@ -115,7 +127,7 @@ h2 {
   margin-right: 600px;
   border-style: double;
   border-radius: 8px;
-  font-family: bubble;
+  font-family: sans-serif;
 }
 .lab5-link{
   display:block;
@@ -130,7 +142,7 @@ h2 {
   margin-right: 600px;
   border-style: double;
   border-radius: 8px;
-  font-family: bubble;
+  font-family: sans-serif;
 }
 .lab6-link{
   display:block;
@@ -145,5 +157,5 @@ h2 {
   margin-right: 600px;
   border-style: double;
   border-radius: 8px;
-  font-family: bubble;
+  font-family: sans-serif;
 }

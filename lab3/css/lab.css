@@ -2,4 +2,15 @@ img {
   margin-top: 10px;
   width: 400px;
   height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
