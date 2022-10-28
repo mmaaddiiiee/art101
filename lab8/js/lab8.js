@@ -16,13 +16,18 @@ console.log("(-12) + 6 = ", additionSix(-12));
 console.log("2 + 6 = ", additionSix(2));
 
 //callback
-var result = array.map(additionSix);
+var result1 = array.map(additionSix);
 //returns with numbers in array using defined function
-console.log("Addition tests using array:", result);
+console.log("Addition tests using array:", result1);
 
-var result = array.map(function(x){
+var result2 = array.map(function(x){
   return x - 2;
-})
+});
 
 //expected result [10, 363, 37, 4, 8]
-console.log("Minus 2 for numbers in array: ", result);
+console.log("Minus 2 for numbers in array: ", result2);
+
+var resultPrint = "Print this =  " + result1 + "<br>" + "Print this other thing =  " + result2;
+
+var outputEl = document.getElementById("output");
+outputEl.innerHTML = resultPrint;
