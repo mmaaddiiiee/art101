@@ -29,7 +29,9 @@ p {
   background-color: #b8f5e2;
   border-style: double;
   border-radius: 8px;
-  font-family: bubble;
+  font-family:monospace;
+  font-style: oblique;
+  font-weight:bolder;
   margin-left: 300px;
   margin-right: 300px;
 }
