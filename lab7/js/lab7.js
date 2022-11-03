@@ -22,7 +22,7 @@ function nameSorter() {
 
 
  //runs
- document.writeln("Here is your new name: "), nameSorter(userInput), "</br");
+ document.writeln("Here is your sorted name: ", nameSorter(), "</br");
 
  //task // X:
 
