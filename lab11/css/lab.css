@@ -1,0 +1,28 @@
+.challenge-button{
+  color: black;
+}
+
+
+.problem-button{
+  color: black;
+}
+
+
+.result-button{
+  color:black;
+}
+
+.color-change{
+  background-color: none;
+  color:black;
+}
+
+
+.special{
+  background-color:pink;
+  color: blue;
+}
+
+.special2{
+  background-color: green;
+}
